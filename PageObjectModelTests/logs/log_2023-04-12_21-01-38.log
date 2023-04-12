@@ -1,0 +1,127 @@
+
+-----
+Test: tests/test_base_page.py::TestMenu::test_check_department_selection_and_go_back (call)
+Start time: 2023-04-12 21:01:56.718795
+Start method name: select_department_and_go_back
+
+End time: 2023-04-12 21:02:55.205988
+End method name: select_department_and_go_back
+URL: https://www.amazon.com/
+
+-----
+
+-----
+Test: tests/test_integration.py::TestRandomChoice::test_should_be_correct_number_of_products_in_header_cart (call)
+Start time: 2023-04-12 21:06:02.556670
+Start method name: add_to_cart
+
+End time: 2023-04-12 21:06:04.254056
+End method name: add_to_cart
+URL: https://www.amazon.com/Viewsonic-VA1655-15-6-Full-Monitor/dp/B09237LL5Q/ref=sr_1_22?qid=1681326351&s=computers-intl-ship&sr=1-22#
+
+-----
+
+-----
+Test: tests/test_integration.py::TestRandomChoice::test_should_be_correct_number_of_products_in_header_cart (call)
+Start time: 2023-04-12 21:06:15.518226
+Start method name: add_to_cart
+
+End time: 2023-04-12 21:06:17.629619
+End method name: add_to_cart
+URL: https://www.amazon.com/SAMSUNG-32-inch-Odyssey-G7-Monitor/dp/B088HHZBGJ/ref=sr_1_27?qid=1681326351&s=computers-intl-ship&sr=1-27&th=1#
+
+-----
+
+-----
+Test: tests/test_integration.py::TestRandomChoice::test_should_be_correct_subtotal_and_quantity_in_cart_create_list (call)
+Start time: 2023-04-12 21:07:00.863756
+Start method name: add_to_cart
+
+End time: 2023-04-12 21:07:02.505085
+End method name: add_to_cart
+URL: https://www.amazon.com/AOPEN-34HC5CUR-Pbmiiphx-Zero-Frame-Technology/dp/B09MZPCWPV/ref=sr_1_1_sspa?qid=1681326413&s=computers-intl-ship&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyR0Y0VVNPSktONkxUJmVuY3J5cHRlZElkPUEwMzQzMjY2Mk5ONkxDRDY5NEROSiZlbmNyeXB0ZWRBZElkPUEwOTA0MjM3MlBRTzVVWjlSRE1BOSZ3aWRnZXROYW1lPXNwX2F0Zl9icm93c2UmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl#
+
+-----
+
+-----
+Test: tests/test_integration.py::TestRandomChoice::test_should_be_correct_subtotal_and_quantity_in_cart_create_list (call)
+Start time: 2023-04-12 21:07:10.234797
+Start method name: add_to_cart
+
+End time: 2023-04-12 21:07:12.075337
+End method name: add_to_cart
+URL: https://www.amazon.com/AOPEN-VA-Monitor-Ultra-Thin-ZeroFrame-FreeSync/dp/B0BD9GZYWB/ref=sr_1_14_sspa?qid=1681326413&s=computers-intl-ship&sr=1-14-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyR0Y0VVNPSktONkxUJmVuY3J5cHRlZElkPUEwMzQzMjY2Mk5ONkxDRDY5NEROSiZlbmNyeXB0ZWRBZElkPUEwNDMzNzQ0MUhVTTBBTklaMDlBNSZ3aWRnZXROYW1lPXNwX210Zl9icm93c2UmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl#
+
+-----
+
+-----
+Test: tests/test_integration.py::TestRandomChoice::test_should_be_correct_subtotal_and_quantity_in_cart_create_list (call)
+Start time: 2023-04-12 21:07:20.033783
+Start method name: add_to_cart
+
+End time: 2023-04-12 21:07:24.283050
+End method name: add_to_cart
+URL: https://www.amazon.com/cart/smart-wagon?newItems=C824b285b-4052-4fca-ad8f-989e52a8ee20,2
+
+-----
+
+-----
+Test: tests/test_integration.py::TestRandomChoice::test_should_be_correct_subtotal_and_quantity_in_cart_create_list (call)
+Start time: 2023-04-12 21:07:28.522751
+Start method name: select_department_and_go_back
+
+End time: 2023-04-12 21:07:28.584751
+End method name: should_be_correct_subtotal
+URL: https://www.amazon.com/gp/cart/view.html?ref_=nav_cart
+
+-----
+
+-----
+Test: tests/test_integration.py::TestRandomChoice::test_should_be_correct_subtotal_and_quantity_in_cart_create_list (call)
+Start time: 2023-04-12 21:07:28.584751
+Start method name: should_be_correct_items_number_in_buybox_list
+
+End time: 2023-04-12 21:07:28.607747
+End method name: should_be_correct_items_number_in_buybox_list
+URL: https://www.amazon.com/gp/cart/view.html?ref_=nav_cart
+
+-----
+
+-----
+Test: tests/test_shopping_page.py::TestShoppingPageFilters::test_check_brand_filters (call)
+Start time: 2023-04-12 21:07:57.860990
+Start method name: check_brand_filter
+
+End time: 2023-04-12 21:08:15.874192
+End method name: check_brand_filter
+URL: https://www.amazon.com/s?i=computers-intl-ship&bbn=16225007011&rh=n%3A16225007011%2Cn%3A1292115011&dc&qid=1681326494&rnid=2528832011&ref=sr_nr_p_89_1&ds=v1%3AWyptIEGE9gwuDp8CXqrlKw0xC8qUw63mgXBxPTUScxk
+
+-----
+
+-----
+Test: tests/test_use_cases.py::TestRandomChoice::test_buy_product_through_menu_selection (call)
+Start time: 2023-04-12 21:10:22.265158
+Start method name: add_to_cart
+
+
+-----
+Test: tests/test_use_cases.py::TestRandomChoice::test_buy_product_through_menu_selection (call)
+Start time: 2023-04-12 21:10:50.178831
+Start method name: add_to_cart
+
+End time: 2023-04-12 21:10:54.204020
+End method name: add_to_cart
+URL: https://www.amazon.com/cart/smart-wagon?newItems=Ce2a1ab54-c9ff-48b7-8e61-c59934b9dd6e,18
+
+-----
+
+-----
+Test: tests/test_use_cases.py::TestRandomChoice::test_buy_product_through_menu_selection (call)
+Start time: 2023-04-12 21:10:56.774628
+Start method name: should_be_products_in_cart
+
+End time: 2023-04-12 21:10:56.837623
+End method name: should_be_products_in_cart
+URL: https://www.amazon.com/gp/cart/view.html?ref_=nav_cart
+
+-----
